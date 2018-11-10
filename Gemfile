@@ -16,6 +16,9 @@ gem 'bootsnap', '>= 1.1.0', require: false
 # Assets
 gem 'webpacker'
 
+# Users
+gem 'devise'
+
 # Tools
 gem 'foreman'
 
